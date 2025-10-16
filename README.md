@@ -1,2 +1,2 @@
 # Mission-Control
-NASA-style command centre for running AI agents locally
+NASA themed command centre for running AI agents locally
